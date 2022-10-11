@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA5d44388f4550a3DEc43Bd3B9B6455397a66D976",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x8e76dc1b1003720ac2506a9fa7740a12cb60e1e5",
+  "NETWORK": {
+    "NAME": "Görli",
+    "SYMBOL": "GoerliETH",
+    "ID": 5
+  },
+  "NFT_NAME": "Purple Eye",
+  "SYMBOL": "PE",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/nft-collection-714m5n6kzx",
+  "SHOW_BACKGROUND": true
+}
